@@ -9,6 +9,4 @@ The third parameter is optional: pass in ``true`` to get extra debugging informa
 
 ``hardware.i2c89.configure(CLOCK_SPEED_400_KHZ);``
 
-`` ``
-
 ``rtc <- PCF8563(hardware.i2c89, 0xA2, true);``
