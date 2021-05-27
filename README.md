@@ -8,5 +8,7 @@ The constructor takes two required parameters: a configured imp I&up2;c bus and 
 The third parameter is optional: pass in ``true`` to get extra debugging information in the log (default: ``false``).
 
 ``hardware.i2c89.configure(CLOCK_SPEED_400_KHZ);``
+
 `` ``
+
 ``rtc <- PCF8563(hardware.i2c89, 0xA2, true);``
