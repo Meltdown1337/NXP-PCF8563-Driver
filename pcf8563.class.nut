@@ -5,8 +5,8 @@ class PCF8563 {
 	//
 	// Bus: I2C
 	//
-	// Written by Tom Byrne and Tony Smith
-	// Copyright Electric Imp, Inc. 2014-16
+	// Written by Meltdown1337
+	// Copyright Electric Imp, Inc. 2021
 
     // PCF8563 Register Constants
     static CTRL_REG_1        = 0x00;
