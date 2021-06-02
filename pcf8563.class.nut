@@ -1,10 +1,7 @@
 class PCF8563 {
 
     // Squirrel class for the NXP PCF8563 real time clock
-	// http://www.nxp.com/documents/data_sheet/PCF8563.pdf
-	//
-	// Bus: I2C
-	//
+	
 	// Written by Meltdown1337
 	// Copyright Electric Imp, Inc. 2021
 
